@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cyyyy
-- 🏫 I’m studing in China University of Petroleum (East China) in Qingdao.
+- 🏫 I’m studying in China University of Petroleum (East China) in Qingdao.
 - 👀 I’m interested in playing basketball,running...
 - 🌱 I’m currently learning algorithm,math
 - 💞️ 
